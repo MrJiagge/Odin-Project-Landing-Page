@@ -1,3 +1,36 @@
 body{
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+/* *{
+    border: solid; 
+}*/
+
+.Header{
+    background-color: #1F2937;
+    border-color: palevioletred;
+    height: 300px;
+}
+
+.main-content{
+    height: 200px;
+    border-color: gold;
+}
+
+.quote-section{
+    background-color: #E5E7EB;
+    height: 275px;
+    border-color: purple;
+}
+
+
+.signup-ad{
+    height: 275px;
+    border-color: green;
+}
+
+.Footer{
+    background-color: #1F2937;
+    height: 50px;
 }
